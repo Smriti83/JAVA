@@ -80,7 +80,7 @@ If your salary is greater than 10l, 30% tax is to be paid. */
             break;
             case '%':System.out.println(s%t);
             break;
-            default: System.out.println("Wrong inputs");
+            default: System.out.println("Invalid inputs");
         }
 
 //Q6- Find which year is a leap year( Take values from user).
@@ -95,8 +95,5 @@ If your salary is greater than 10l, 30% tax is to be paid. */
         else{
             System.out.println("Not a Leap year");
         }
-
-
     }
-    
 }
