@@ -55,8 +55,8 @@ public class Loops {
         }
         else{
             boolean isPrime=true;
-            for(int o=2;o<=Math.sqrt(o);o++){
-                if(o%2==0){
+            for(int z=2;z<=Math.sqrt(f);z++){
+                if(f%z==0){
                     isPrime=false;
                 }
             }
